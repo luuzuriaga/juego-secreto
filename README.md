@@ -6,7 +6,7 @@ Un juego interactivo de adivinanza de números desarrollado con JavaScript vanil
 
 El Juego del Número Secreto es una aplicación web donde el jugador debe adivinar un número generado aleatoriamente por la computadora. El juego proporciona pistas indicando si el número secreto es mayor o menor que el número ingresado.
 
-![Vista previa del proyecto](./home.png)
+![Vista previa del proyecto](./img/home.png)
 
 ## ✨ Características
 
